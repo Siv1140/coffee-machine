@@ -247,7 +247,20 @@ console.log(changeBtn.classList.contains("btn")); //проверить нали�
 // };
 
 
+// let coffeeButtons = document.querySelectorAll(".coffee-item");
 
+// console.log(coffeeButtons);
+ 
+// for (let i = 0; i < coffeeButtons.length; i++) { 
+  
+//   coffeeButtons[i].onclick = function() {
+    
+//     console.log(this);
+    
+//     //makeCoffee("Американо", 25, this);
+    
+//   }
+// }
 
 
 

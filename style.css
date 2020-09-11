@@ -54,6 +54,8 @@
 
 .cup {
   width: 100%;
+  display: none;
+  opacity: 0;
 }
 
 .atm {
